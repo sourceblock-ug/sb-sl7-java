@@ -6,7 +6,12 @@
 
     <groupId>de.sourceblock.mhc</groupId>
     <artifactId>sl7-java</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
+
+    <properties>
+        <maven.compiler.target>1.8</maven.compiler.target>
+        <maven.compiler.source>1.8</maven.compiler.source>
+    </properties>
 
     <organization>
         <name>SourceBLOCK UG haftungsbeschränkt</name>
